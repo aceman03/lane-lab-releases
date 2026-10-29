@@ -21,4 +21,4 @@ Lane Lab is proprietary software. Copyright (c) 2025-2026 aceman03. All rights r
   code. Contact [aceman03 on GitHub](https://github.com/aceman03).
 
 Lane Lab is an independent app and is not affiliated with or endorsed by the makers of the F5
-sensor, Storm, or any other bowling company. See [LICENSE](LICENSE) for the full terms.
+sensor, Storm, or any other bowling company. See [LICENSE](LICENSE) for the full license and [TERMS.md](TERMS.md) for the terms of use.
